@@ -1,0 +1,115 @@
+body {
+  background-color: white
+}
+
+h1{
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 20px;
+}
+
+p{
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 750px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover{
+  color:blue;
+  text-decoration: underline;
+  font-size: 13px;
+}
+
+.adriana:hover {
+    font-size: 15px;
+}
+
+.drenagemEMARP {
+    color: blue;
+    font-size: 13px;
+}
+
+.drenagemONDADECHOCOLATE {
+    color: blue;
+    font-size: 13px;
+}
+
+.drenagemGALERIAXXI {
+    color: blue;
+    font-size: 13px;
+}
+
+.alteraçõesempáticas {
+    color: blue;
+    font-size: 13px;
+}
+
+.sal {
+    color: blue;
+    font-size: 13px;
+}
+
+.descarga {
+    color: blue;
+    font-size: 13px;
+}
+
+.concertosnapaisagem {
+    color: blue;
+    font-size: 13px;
+}
+
+.hapsolution {
+    color: blue;
+    font-size: 13px;
+}
+
+.resves {
+    color: blue;
+    font-size: 13px;
+}
+
+.apex {
+    color: blue;
+    font-size: 13px;
+}
+
+.luzlinar {
+    color: blue;
+    font-size: 13px;
+}
+
+.theaterinasuitcase {
+    color: blue;
+    font-size: 13px;
+}
+
+.resves2 {
+    color: blue;
+    font-size: 13px;
+}
+
+.apex2 {
+    color: blue;
+    font-size: 13px;
+}
+
+.thesashaproject {
+    color: blue;
+    font-size: 13px;
+}
+
+.instagram {
+    color: blue;
+    font-size: 13px;
+}
+
+.facebook {
+    color: blue;
+    font-size: 13px;
+}
