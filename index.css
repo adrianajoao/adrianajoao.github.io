@@ -112,3 +112,12 @@ a:hover{
     color: blue;
     font-size: 13px;
 }
+
+.seta {
+    color: black;
+    font-size: 15px;
+}
+
+.seta:hover {
+    font-size: 15px;
+}
